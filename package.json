@@ -18,13 +18,13 @@
   },
   "homepage": "https://github.com/gorgos/Truffle-CI-Example#readme",
   "dependencies": {
-    "ganache-cli": "^6.9.1",
-    "truffle": "^5.1.27"
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.4.32"
   },
   "devDependencies": {
     "@codechecks/client": "^0.1.10",
-    "coveralls": "^3.1.0",
+    "coveralls": "^3.1.1",
     "eth-gas-reporter": "^0.2.17",
-    "solidity-coverage": "^0.7.5"
+    "solidity-coverage": "^0.7.22"
   }
 }
